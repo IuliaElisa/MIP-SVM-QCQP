@@ -14,5 +14,4 @@ MIP for modelling fairness constraints
           make all
           make execute
           
-4.Calculate metrics: python ./metrics_svm_simple.py metrics.txt
-5. 
+4. Calculate metrics: python ./metrics_svm_simple.py metrics.txt
