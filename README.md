@@ -15,3 +15,4 @@ The format of these datasets is entirely numerical.
           make execute
           
 4. Calculate metrics: python ./metrics_svm_simple.py metrics.txt
+5. If run on Calcul server, the total time for running code for a specific combination of parameters can be found in some_name-nb_job.stdout where nb_job is the id of the submitted job.
